@@ -47,3 +47,19 @@ Catchain Endpoint: http://192.168.0.175:8545
 Current Block Height: 0x2dc2 (11458)
 Network ID: 70707
 Consensus: IBFT (Proof of Compute)
+nano README.md
+
+---
+
+### 🧱 Brand Identity
+![TrustCat](trustcat-logo1.png)
+
+> **Terminal-grade compute trust.**  
+> Real rigs. Real proofs. Real humans.  
+> 🐾 *RAVE — Respect, Appreciate, Value, Everyone.*
+
+---
+
+### 🛰️ Git Hash of Genesis
+```bash
+git log -1 --format="%H"
