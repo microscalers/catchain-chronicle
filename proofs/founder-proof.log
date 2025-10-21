@@ -1,0 +1,7 @@
+Founder Genesis Proof - $(date -u)
+ENS: founder.microscaler.eth
+Validator: 0xf7c4793f7e5f79e04a265e29983f9e870244c20f
+Catchain Endpoint: http://192.168.0.175:8545
+Current Block Height: 0x2dc2 (11458)
+Network ID: 70707
+Consensus: IBFT (Proof of Compute)
